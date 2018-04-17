@@ -1,4 +1,4 @@
-package datastructures.redBlackTree;
+package dataStructures.redBlackTree;
 
 /*******
  *  RBT Properties:

@@ -1,4 +1,4 @@
-package datastructures.redBlackTree;
+package dataStructures.redBlackTree;
 
 public class Node {
 	public Node(int key, Node left, Node right, boolean isRed, Node p) {

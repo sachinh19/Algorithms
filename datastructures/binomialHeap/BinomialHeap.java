@@ -1,4 +1,4 @@
-package datastructures.binomialHeap;
+package dataStructures.binomialHeap;
 
 public class BinomialHeap {
 	private Node head;
