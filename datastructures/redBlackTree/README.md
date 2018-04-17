@@ -9,7 +9,7 @@ A Red Black tree has the following properties to be maintained:
    	number of black nodes.
 
 
-![alt text](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree#/media/File:Red-black_tree_example.svg.png)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Red-black_tree_example.svg/1350px-Red-black_tree_example.svg.png)
 
 ### Here is a good visualization which can help in understanding the operations of a Red Black Tree.
 https://www.cs.usfca.edu/~galles/visualization/RedBlack.html
