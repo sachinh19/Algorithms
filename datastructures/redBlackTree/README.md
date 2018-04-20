@@ -1,4 +1,5 @@
-﻿Red Black Trees
+# Red Black Trees
+
 A Red Black tree has the following properties to be maintained:
 
 1. Every node is either red or black.
